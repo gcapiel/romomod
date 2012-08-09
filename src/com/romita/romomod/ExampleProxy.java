@@ -24,7 +24,7 @@ import com.romotive.library.RomoCommandInterface;
 import android.app.Activity;
 
 
-// This proxy can be created by calling Romomod.createExample({message: "hello world"})
+// This proxy can be created  by calling Romomod.createExample({message: "hello world"})
 @Kroll.proxy(creatableInModule=RomomodModule.class)
 public class ExampleProxy extends TiViewProxy
 {
