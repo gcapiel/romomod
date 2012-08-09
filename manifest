@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Romotive SDK Module
+author: Gerardo Capiel
+license: Apache Public License
+copyright: Copyright (c) 2012 by Gerardo Capiel
+
+
+# these should not be edited
+name: romomod
+moduleid: com.romita.romomod
+guid: a49b14a1-4aea-4d14-a47e-27e0bf673a9d
+platform: android
+minsdk: 2.1.0.GA
